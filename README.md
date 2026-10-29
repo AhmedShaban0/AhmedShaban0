@@ -16,9 +16,8 @@ I build practical projects that turn data into useful insights and intelligent a
 ## 👨‍💻 About Me
 
 - Interested in **Artificial Intelligence, Data Science, Machine Learning, and Analytics**.
-- I work on end-to-end projects spanning data preparation, modeling, analysis, and interactive apps.
-- My projects include geospatial wildfire risk prediction, NLP sentiment analysis, and business analytics.
-- Currently building and learning through hands-on projects.
+- I work on projects covering data preparation, modeling, analysis, and interactive apps.
+- My projects include wildfire risk prediction, sentiment analysis, and business analytics.
 
 ## 🧰 Technical Stack
 
@@ -27,8 +26,8 @@ I build practical projects that turn data into useful insights and intelligent a
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-**Machine learning & analytics:**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+**Machine Learning & analytics:**  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -40,12 +39,12 @@ I build practical projects that turn data into useful insights and intelligent a
 
 ## 🚀 Featured Projects
 
-| Project | What it does |
+| Project | Description |
 |---|---|
 | [California Wildfire Prediction & 3D Digital Twin](https://github.com/AhmedShaban0/CaliforniaWildfire-Prediction-DigitalTwin) | Geospatial machine learning project with interactive wildfire risk maps and a 3D digital twin. [Live app](https://california-wildfire.streamlit.app/) |
-| [AI Fitness Coach](https://github.com/AhmedShaban0/AI-Fitness-Coach) | Streamlit app for fitness calorie predictions, model benchmarking, and analytics. [Live app](https://ai-fitness-coach-rfcmrhpdaqv9qcvjpuc4am.streamlit.app/) |
-| [IMDB Sentiment Analysis](https://github.com/AhmedShaban0/IMDB-Sentiment-Analysis) | NLP project comparing text features and classifiers for movie review sentiment. [Live app](https://ahmedshaban0-imdb-sentiment-analysis-app-enwzni.streamlit.app/) |
-| [Supply Chain Analytics](https://github.com/AhmedShaban0/Supply_Chain_Project_DEPI) | Analytics workflow using Excel, SQL, Python, and Tableau. |
+| [AI Fitness Coach](https://github.com/AhmedShaban0/AI-Fitness-Coach) | Fitness prediction and analytics app built with Streamlit. [Live app](https://ai-fitness-coach-rfcmrhpdaqv9qcvjpuc4am.streamlit.app/) |
+| [IMDB Sentiment Analysis](https://github.com/AhmedShaban0/IMDB-Sentiment-Analysis) | NLP project that classifies movie review sentiment. [Live app](https://ahmedshaban0-imdb-sentiment-analysis-app-enwzni.streamlit.app/) |
+| [Supply Chain Analytics](https://github.com/AhmedShaban0/Supply_Chain_Project_DEPI) | Analytics project using Excel, SQL, Python, and Tableau. |
 
 ## 📊 GitHub Stats
 
@@ -53,13 +52,16 @@ I build practical projects that turn data into useful insights and intelligent a
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedShaban0&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/AhmedShaban0)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShaban0&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AhmedShaban0)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedShaban0&theme=tokyonight&hide_border=true)](https://github.com/AhmedShaban0)
 
 </div>
 
 ## 🌱 Contribution Activity
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedShaban0&theme=tokyo-night&hide_border=true)](https://github.com/AhmedShaban0)
+<div align="center">
+
+[![Ahmed's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedShaban0&theme=tokyo-night&hide_border=true)](https://github.com/AhmedShaban0)
+
+</div>
 
 <div align="center">
 
