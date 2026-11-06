@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ahmed Shaban
 
-### AI & Data Science | Machine Learning | Data Analytics
+### Data Science | AI & Machine Learning | Data Analytics
 
 I build practical projects that turn data into useful insights and intelligent applications.
 
